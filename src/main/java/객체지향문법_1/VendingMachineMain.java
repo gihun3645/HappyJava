@@ -5,7 +5,7 @@ public class VendingMachineMain {
         VendingMachine vm1 = new VendingMachine(); // 자판기만 메모리에 생성
 
         // 리턴된 "콜라"는 product 변수가 참조하게 됨
-        String product = vm1.pushProductButton(100);
-        System.out.println(product);
+        vm1.pushProductButton(100);
+
     }
 }
