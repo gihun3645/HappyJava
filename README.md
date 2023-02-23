@@ -1,4 +1,4 @@
-# funnyJava
+# HappyJava
 
 ## 즐거운 자바 강의자료 및 소스코드입니다.
 
