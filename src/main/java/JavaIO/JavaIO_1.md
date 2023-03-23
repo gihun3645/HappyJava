@@ -12,7 +12,7 @@
 - Java IO에서 사용되는 객체는 자바 세상에서 사용되는 객체이다.
 - Java IO가 제공하는 객체는 어떤 대상으로 부터 읽어들이며, 어떤 대상에게 쓰는 일을 한다.
 
-![스크린샷 2023-01-26 오전 1.45.30.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0729ed1b-96c3-446e-8c0b-de41f3d87191/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-01-26_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_1.45.30.png)
+![JavaIO는.png](JavaIO%EB%8A%94.png)
 
 ### 주인공과 장식을 구분할 수 있어야 한다.
 
@@ -24,19 +24,20 @@
 
 ### Java IO의 특수한 객체
 
-[system.in](http://system.in) : 표준입력(InputStream)
+System.in   : 표준입력(InputStream)
 
 System.out  : 표준 출력(PrintStream)
 
 System.err : 표준 에러 출력 (PrintStream)
 
-![IMG_3115.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2c362bab-4e3b-4d06-a3d8-50f8bab6ef6e/IMG_3115.jpeg)
+![클래스상속도.jpeg](%ED%81%B4%EB%9E%98%EC%8A%A4%EC%83%81%EC%86%8D%EB%8F%84.jpeg)
 
 InputStream, OutputStream Reader, Writer 가 중요함
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/15b46fbc-ded1-46ef-998d-275c7ba7e22e/Untitled.png)
+![클래스이름이중요1.png](%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%B4%EB%A6%84%EC%9D%B4%EC%A4%91%EC%9A%941.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/83f6286e-23ba-4210-8f39-e7adb907834f/Untitled.png)
+![클래스이름이중요1.png](%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%B4%EB%A6%84%EC%9D%B4%EC%A4%91%EC%9A%941.png)
+
 
 ### Java IO 클래스는 생성자가 중요하다
 
