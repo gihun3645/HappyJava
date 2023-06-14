@@ -1,6 +1,7 @@
 package JavaIO;
 
-import java.io.*;
+
+import java.io.File;
 
 public class FileDelete {
     public static void main(String[] args) {
