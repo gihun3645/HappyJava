@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.nio.Buffer;
 
-// java ChatClient.java [이름]
+// java ChatThread.java [이름]
 public class ChatClient {
     public static void main(String[] args) throws Exception {
         String name = args[0];
